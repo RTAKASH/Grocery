@@ -1,0 +1,100 @@
+.header1 {
+    display: flex;
+    justify-content: space-between; /* Align items to the start and end of the container */
+    align-items: center; /* Align items vertically */
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+
+.header1 h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 33.89px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    margin-left: 237px;
+    margin-top: -980px;
+    color: rgba(55, 65, 81, 1);
+
+}
+
+.logout {
+    width: 99px;
+    height: 47px;
+    padding: 14px 24px; /* Adjust padding */
+    border-radius: 12px; /* Apply border radius */
+    border: 1px solid rgba(239, 68, 68, 1);
+    background-color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    letter-spacing: -0.04em;
+    text-align: center; /* Center text */
+    color: rgba(239, 68, 68, 1);
+    margin-top: -996px;
+    margin-right: 45px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px auto;
+  }
+  .cards
+  {
+    margin-left: 245px;
+  margin-top: -421px;
+  display: flex;
+ }
+  .card {
+    width:269px;
+    height:100px;
+    padding: 24px 0px 0px 0px;
+    gap: 8px;
+    border-radius: 16px 16px 16px 16px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(229, 231, 235, 1);
+    margin-right:52px;
+    
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .card-content {
+    text-align: center;
+    margin-top: -13px;
+  }
+  
+  .card-content h1 {
+    margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38.4px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    color:  rgba(55, 65, 81, 1);
+    padding-left: 37px;
+    margin-top: -12px;
+    
+
+  }
+  
+  .card-content p {
+    color: rgba(107, 114, 128, 1);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    padding-left: 37px;
+
+  }

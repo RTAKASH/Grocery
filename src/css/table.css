@@ -1,0 +1,123 @@
+
+.cards2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:703px;
+    height: 281px;
+    padding: 24px 0px 0px 0px;
+    border-radius: 16px 16px 16px 16px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(229, 231, 235, 1);
+    margin-top: 42px;
+  margin-left: 241px;
+  padding-left: 14px;
+  }
+  
+  .cards2 h1 {
+    font-family: 'Poppins', sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: -0.05em;
+text-align: left;
+
+color: rgba(55, 65, 81, 1);
+margin-top: -250px;
+  margin-left: 28px;
+}
+
+
+  
+  .button3 {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    border: none;
+    background-color: transparent;
+    color: rgba(31, 41, 55, 1);
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    color: rgba(249, 115, 22, 1);
+    margin-top: -266px;
+    margin-left: 445px;
+
+  }
+  
+  .button3 img {
+    width: 13px;
+  margin-left: 8px;
+  height: 13px;
+  }
+  .table-container {
+    width: 95%;
+    overflow-y: auto; /* Enable vertical overflow */
+    padding-right: 19px;
+    margin-left: -680px;
+    margin-top: 41px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: -31px;
+    margin-left: 14px;
+
+  }
+  
+  td {
+    text-align: left;
+    padding: 8px;
+    font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.2px;
+letter-spacing: -0.05em;
+text-align: left;
+color: rgba(55, 65, 81, 1);
+
+
+  }
+  .column
+  {
+    margin-left: 10px;
+    width: 655px;
+height: 51px;
+
+  }
+  .column ul {
+    display: flex; /* Use flexbox */
+    justify-content: space-between; /* Distribute items evenly along the main axis */
+    list-style: none; /* Remove default list styles */
+    background-color: rgba(107, 114, 128, 1);
+    border-radius: 12px; /* Add border radius */
+    margin: 0; /* Remove default margin */
+    padding-right: 41px;
+  }
+  
+  .column li {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.2px;
+    letter-spacing: -0.05em;
+    color: #ffffff;
+    padding: 16px; /* Add padding to separate items */
+  }
+  .column li:first-child {
+    margin-right: 62px;
+    margin-left: -43px;
+  }
+  
+  
+  .column li:last-child {
+    padding-right: 40px;
+  }
+  
+  
+  

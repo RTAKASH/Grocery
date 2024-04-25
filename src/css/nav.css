@@ -1,0 +1,57 @@
+.Nav {
+    padding: 20px; /* Add padding around the navigation */
+  }
+  .Nav h1
+  {
+    font-family: 'Inter', sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.73px;
+letter-spacing: -0.01em;
+text-align: left;
+width: 192px;
+height: 78px;
+color: rgba(55, 65, 81, 1);
+margin-left: 10px;
+margin-top: 33px;
+  margin-bottom: 42px;
+}
+
+
+  .list {
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .button1 {
+    background-color: transparent; /* Set background color of the buttons */
+    padding: 10px 20px; /* Add padding inside the buttons */
+    margin-right: 20px; /* Add margin between buttons */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    display: flex; /* Make buttons flex containers */
+    align-items: center; /* Align content vertically */
+    color: rgba(156, 163, 175, 1);
+    border: 1px solid rgba(243, 244, 246, 1);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    width: 191px; /* Set fixed width for all buttons */
+    border-radius: 12px; /* Apply border radius to buttons */
+    height:48px;
+    margin-bottom: 10px;
+  }
+  
+  .button1 img {
+    width: 20px; /* Set width of the icon */
+    margin-right: 10px; /* Add margin between icon and text */
+  }
+  
+  .button1:hover {
+    background: rgba(255, 247, 237, 1);
+    border-color: transparent; /* Remove border color on hover */
+  }
+  
